@@ -1,1 +1,1 @@
-# mini-project-intern-pe
+# chatbot_miniproject
